@@ -1,4 +1,4 @@
-阿里云全站加速CDN HTTPS证书自动上传脚本，改自 https://github.com/git9527/aliyun-cdn-https-cert-updater。
+阿里云全站加速CDN HTTPS证书自动上传脚本，改自 https://github.com/git9527/aliyun-cdn-https-cert-updater
 
 使用方法:
 
